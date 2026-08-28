@@ -1,0 +1,38 @@
+[Ver codigo para Execucao] (/Questao15.java)
+
+Exercício 15
+  Analise o efeito do cast de tipo em Java. Sem executar, determine o que cada linha 
+  exibe. Depois escreva o código e confirme.
+
+    double d = 3.99;
+    int a = 7, b = 2;
+  
+    System.out.println((int) d);          // -> ___
+    System.out.println(( double) a / b);  // -> ___
+    System.out.println(a / b);            // -> ___
+    System.out.println((int)(d * 10));    // -> ___
+    System.out.println((int) d + a);      // -> ___  
+
+  RESPOSTA:
+
+    1. 3
+      O código transformará a váriavel "d", que é um número real (double) em um número 
+      inteira (int). A variável "d", que possui o valor 3,99 apresentará o valor de 3 como número inteiro.
+
+    2. 3.5
+      A divisão de "a" e "b", que originalmente são números inteiros (int), será convertida 
+      em uma divisão real (de tipo double), forçando as variáveis "a" e "b" a agirem como double. 
+      A divisão de a por "b" (a/b), que deveria ter o valor de 3 como inteiro (int), terá o valor 
+      de 3.5 (double), um número real.
+
+    3.  3
+      A variável "a" está sendo dividida por "b", sendo ambas inteiras (int). A divisão de "a" por "b" (a/b = 7/2), 
+      terá o valor de 3 por ser uma divisão inteira (int).
+
+    4. 39
+      A variável double (número real) "d" (3.99) será multiplicada por 10 (3.99 * 10 = 39.9) e depois convertida 
+      em um número inteiro (int). O resultado da multiplicação será 39.
+
+    5. 10
+      Após a soma (10.99) de "d" (3.99) e "a" (7) o resultado será convertido forçadamente em um inteiro (10). O 
+      resultado da soma será 10.

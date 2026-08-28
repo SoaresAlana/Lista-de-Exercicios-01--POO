@@ -1,0 +1,39 @@
+﻿[← Voltar ao README](../README.md)
+
+* Bloco 6: Vetores (arrays) e Matrizes
+  - QUESTÃO 39: (../src/bloco06/Questao39.java)
+    Declare e inicialize: int[] notas = {72, 85, 91, 68, 77, 95, 60, 88}. Exiba cada elemento 
+    no formato "notas[i] = valor" usando for.
+
+  - QUESTÃO 40: (../src/bloco06/Questao40.java)
+    Usando o array do exercício anterior, calcule e exiba:
+      * A soma de todos os elementos;
+      * A média (como double);
+      * A quantidade de notas acima da média.
+
+  - QUESTÃO 41: (../src/bloco06/Questao41.java)
+    Dado int[] v = {34, 7, 89, 23, 56, 12, 78, 45}, encontre o maior e o menor valor, exibindo 
+    também o índice onde cada um está.
+      ▷ Dica: Inicialize maior = v[0] e menor = v[0] antes do loop.
+
+  - QUESTÃO 42: (../src/bloco06/Questao42.java)
+    Dado int[] v = {-3, 8, 0, 15, -7, 4, -1, 22, 0, 9}, conte e exiba: positivos, negativos e zeros. 
+    Exiba também a soma apenas dos números positivos.
+
+  - QUESTÃO 43: (../src/bloco06/Questao43.java)
+    Busca linear: dado int[] d = {11, 33, 55, 77, 99, 22, 44, 66} e alvo = 77, percorra o array e 
+    exiba o índice onde o valor foi encontrado, ou "Nao encontrado." se não existir.
+
+  - QUESTÃO 44: (../src/bloco06/Questao44.java)
+    Inversão in-place: inverta int[] arr = {1, 2, 3, 4, 5, 6, 7} sem criar outro array. Use uma 
+    variável temporária para trocar os extremos em direção ao centro. Exiba o array antes e depois.
+      ▷ Dica: 
+        Loop: i = 0 até i < arr.length / 2. Troque arr[i] com
+        arr[arr.length - 1 - i].
+
+  - QUESTÃO 45: (../src/bloco06/Questao45.java)
+    (a) Implemente o Bubble Sort para ordenar em ordem crescente: int[] v = {64, 34, 25, 12, 22, 11, 90}. 
+    Exiba antes e após a ordenação.
+    (b) Declare e exiba a matriz abaixo formatada como grade 3 × 3; calcule a soma de todos os 
+    elementos e a soma da diagonal principal.
+      int [][] m = { {1, 2, 3}, {4, 5, 6}, {7, 8, 9} };

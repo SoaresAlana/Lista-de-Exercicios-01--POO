@@ -1,0 +1,44 @@
+﻿[← Voltar ao README](../README.md)
+
+* Bloco 7: Funções com e sem retorno
+  - QUESTÃO 46: (../src/bloco07/Questao46.java)
+    Crie o método static void imprimirLinha(int tam, char sim) que exibe uma linha com o 
+    símbolo repetido tam vezes. Na main(), chame-o com:
+      * imprimirLinha(30, ’-’)
+      * imprimirLinha(20, ’=’)
+      * imprimirLinha(10, ’*’)
+
+  - QUESTÃO 47: (../src/bloco07/Questao47.java)
+    Crie dois métodos:
+      * static double calcularArea(double base, double alt) — retorna a área do retângulo.
+      * static double calcularPerimetro(double base, double alt) — retorna 2(b + a). 
+    Na main(), teste com base = 8.0 e altura = 5.0.
+
+  - QUESTÃO 48: (../src/bloco07/Questao48.java)
+    Crie static boolean ehPrimo(int n) que retorna true se n for primo. Na main(), use-o em um 
+    loop para exibir todos os primos de 1 a 50.
+      ▷ Dica: 
+        Um número é primo se não é divisível por nenhum inteiro entre 2 e √n. Use Math.sqrt(n) 
+        no critério de parada do loop interno.
+
+  - QUESTÃO 49: (../src/bloco07/Questao49.java)
+    Crie static long fatorial(int n) que retorna o fatorial de n usando um loop for. Na main(), 
+    use-o para exibir os fatoriais de 0 a 12 no formato: "0! = 1", "1! = 1", . . . , "12! = 479001600".
+
+  - QUESTÃO 50: (../src/bloco07/Questao50.java)
+    Crie três métodos e combine-os na main(): 
+      (a) static boolean ehPalindromo(String s) — retorna true se a string for igual lida de frente e 
+      de trás (ignore maiúsculas). Complete o esqueleto abaixo:
+        static boolean ehPalindromo ( String s) {
+          s = s. toLowerCase ();
+          int ini = 0, fim = s. length () - 1;
+          while (ini < fim) {
+            if (s. charAt (ini) != s. charAt (fim)) return ____ ;
+            ini ++; fim --;
+          }
+          return ____ ;
+        }
+      (b) static int[] gerarFibonacci(int n) — retorna array com os primeiros n termos.
+      (c) static void exibirVetor(int[] v) — exibe os elementos separados por " -> ".
+    Na main(): teste ehPalindromo com "racecar", "hello", "Ama"; e chame exibirVetor(gerarFibonacci(15)).
+      Saída Fibonacci: 0 -> 1 -> 1 -> 2 -> 3 -> 5 -> 8 -> 13 -> 21 -> 34 -> 55 -> 89 -> 144 -> 233 -> 377
