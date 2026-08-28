@@ -1,0 +1,16 @@
+# Arquivos compilados do Java
+*.class
+
+# Pastas de arquivos compilados
+bin/
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos de sistema do Windows
+Thumbs.db
+desktop.ini
