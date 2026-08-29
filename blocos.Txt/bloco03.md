@@ -1,7 +1,7 @@
 ﻿[← Voltar ao README](../README.md)
 
-## Bloco 3: Estrutura if / else / else if
-  ### - QUESTÃO 16: (../src/bloco03/Questao16.java)
+# Bloco 3: Estrutura if / else / else if
+  ## - QUESTÃO 16: (../src/bloco03/Questao16.java)
     Declare numero = -8. Verifique se é positivo, negativo ou zero e se 
     é par ou ímpar. Produza uma única mensagem combinada: "O numero -8 e 
     negativo e par."
