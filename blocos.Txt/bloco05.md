@@ -19,13 +19,14 @@
 
   - QUESTÃO 36: (../src/bloco05/Questao36.java)
     Declare codigo = 3. Use switch para exibir o nome e o preço do produto.
-    ------------------------------------
-      Cód. | Produto          | Preço
-        1  | Arroz (5 kg)     | R$ 28,90
-        2  | Feijão (1 kg)    | R$ 9,50
-        3  | Macarrão (500 g) | R$ 4,75
-        4  | Azeite (500 ml)  | R$ 22,00
-        5  | Leite (1 L)      | R$ 6,30 
+    
+      | Cód. | Produto          | Preço    |
+      |------|------------------|----------|
+      |  1   | Arroz (5 kg)     | R$ 28,90 |
+      |  2   | Feijão (1 kg)    | R$ 9,50  |
+      |  3   | Macarrão (500 g) | R$ 4,75  |
+      |  4   | Azeite (500 ml)  | R$ 22,00 |
+      |  5   | Leite (1 L)      | R$ 6,30  |
 
   - QUESTÃO 37: (../src/bloco05/Questao37.java)
     Declare turno = 2 (1 = Manhã, 2 = Tarde, 3 = Noite). Use switch para exibir a saudação 
@@ -33,8 +34,10 @@
 
   - QUESTÃO 38: (../src/bloco05/Questao38.java)
     Declare contrato = 1 e salarioBruto = 5000.0. Use switch para calcular e 
-    exibir o desconto e o salário líquido. 
-      Cód. | Tipo         | Desconto
-       1   | CLT          | 27,5%
-       2   | PJ (simples) | 15,0%
-       3   | Estágio      | 11,0%
+    exibir o desconto e o salário líquido.
+    
+      | Cód. | Tipo         | Desconto |
+      |------|--------------|----------|
+      |  1   | CLT          | 27,5%    |
+      |  2   | PJ (simples) | 15,0%    |
+      |  3   | Estágio      | 11,0%    |
