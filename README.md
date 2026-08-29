@@ -4,7 +4,7 @@
 50 Exercícios.
 Separadas em 7 blocos.
 
-* [Bloco 1: Operações Matemáticas](blocos.Txt/bloco01.txt)
+* [Bloco 1: Operações Matemáticas](blocos.Txt/bloco01.md)
   - Questão 01 
   - Questão 02 
   - Questão 03 
@@ -14,7 +14,7 @@ Separadas em 7 blocos.
   - Questão 07 
   - Questão 08 
 
-* [Bloco 2: Conversões de Unidades e Tipos](blocos.Txt/bloco02.txt)
+* [Bloco 2: Conversões de Unidades e Tipos](blocos.Txt/bloco02.md)
   - Questão 09 
   - Questão 10 
   - Questão 11 
