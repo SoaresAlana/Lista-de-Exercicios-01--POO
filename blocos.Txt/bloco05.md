@@ -1,6 +1,6 @@
 ﻿[← Voltar ao README](../README.md)
 ## Bloco 5: Estrutura switch / case
-  ## - QUESTÃO 33: (../src/bloco05/Questao33.java)
+  ### - QUESTÃO 33: (../src/bloco05/Questao33.java)
     Declare dia = 4 (1 = Domingo . . . 7 = Sábado). Use switch para exibir o nome completo do 
     dia da semana. O default exibe "Dia invalido.".
 
