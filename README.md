@@ -4,7 +4,7 @@
 50 Exercícios.
 Separadas em 7 blocos.
 
-* [Bloco 1: Operações Matemáticas](blocos.Txt/bloco01.md)
+## [Bloco 1: Operações Matemáticas](blocos.Txt/bloco01.md)
   - Questão 01 
   - Questão 02 
   - Questão 03 
@@ -14,7 +14,7 @@ Separadas em 7 blocos.
   - Questão 07 
   - Questão 08 
 
-* [Bloco 2: Conversões de Unidades e Tipos](blocos.Txt/bloco02.md)
+## [Bloco 2: Conversões de Unidades e Tipos](blocos.Txt/bloco02.md)
   - Questão 09 
   - Questão 10 
   - Questão 11 
@@ -23,7 +23,7 @@ Separadas em 7 blocos.
   - Questão 14 
   - Questão 15 
 
-* [Bloco 3: Estrutura if / else / else if](blocos.Txt/bloco03.txt)
+## [Bloco 3: Estrutura if / else / else if](blocos.Txt/bloco03.md)
   - Questão 16
   - Questão 17
   - Questão 18
@@ -33,7 +33,7 @@ Separadas em 7 blocos.
   - Questão 22
   - Questão 23
 
-* [Bloco 4: Estruturas de Repetição: for, while, do-while](blocos.Txt/bloco04.txt)
+## [Bloco 4: Estruturas de Repetição: for, while, do-while](blocos.Txt/bloco04.md)
   - Questão 24
   - Questão 25
   - Questão 26
@@ -44,7 +44,7 @@ Separadas em 7 blocos.
   - Questão 31
   - Questão 32
 
-* [Bloco 5: Estrutura switch / case](blocos.Txt/bloco05.txt)
+ ## [Bloco 5: Estrutura switch / case](blocos.Txt/bloco05.md)
   - Questão 33
   - Questão 34
   - Questão 35
@@ -52,7 +52,7 @@ Separadas em 7 blocos.
   - Questão 37
   - Questão 38
 
-* [Bloco 6: Vetores (arrays) e Matrizes](blocos.Txt/bloco06.txt)
+## [Bloco 6: Vetores (arrays) e Matrizes](blocos.Txt/bloco06.md)
   - Questão 39
   - Questão 40
   - Questão 41
@@ -61,7 +61,7 @@ Separadas em 7 blocos.
   - Questão 44
   - Questão 45
 
-* [Bloco 7: Funções com e sem retorno](blocos.Txt/bloco07.txt)
+## [Bloco 7: Funções com e sem retorno](blocos.Txt/bloco07.md)
   - Questão 46
   - Questão 47
   - Questão 48
