@@ -37,7 +37,7 @@
 
   ### - QUESTÃO 08: (../src/bloco01/Questao08.java)
     Declare base = 3 e expoente = 5. Calcule e exiba usando Math.pow(): 
-      * baseˆexpoente 
+      * baseˆexpoente
       * o quadrado de base (baseˆ2) 
       * o cubo de base (baseˆ3)
     Converta cada resultado para int ao exibir.
