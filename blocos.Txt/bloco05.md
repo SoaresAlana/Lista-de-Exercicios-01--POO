@@ -18,7 +18,8 @@
     exibe "Operador invalido.". 
 
   - QUESTÃO 36: (../src/bloco05/Questao36.java)
-    Declare codigo = 3. Use switch para exibir o nome e o preço do produto. 
+    Declare codigo = 3. Use switch para exibir o nome e o preço do produto.
+    
       Cód. | Produto          | Preço
         1  | Arroz (5 kg)     | R$ 28,90
         2  | Feijão (1 kg)    | R$ 9,50
