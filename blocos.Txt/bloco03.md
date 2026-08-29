@@ -10,14 +10,14 @@
     Retomando o exercício 04: declare imc = 26.5. Classifique conforme a 
     tabela da OMS e exiba o resultado. 
     
-      | Classificação      |  IMC         |
-      | ------------------ | ------------ |
-      | Abaixo do peso     |  < 18,5      |
-      | Peso normal        |  18,5 – 24,9 |
-      | Sobrepeso          |  25,0 – 29,9 |
-      | Obesidade grau I   |  30,0 – 34,9 |
-      | Obesidade grau II  |  35,0 – 39,9 |
-      | Obesidade grau III |  ≥ 40,0      |
+    | Classificação      |  IMC         |
+    | ------------------ | ------------ |
+    | Abaixo do peso     |  < 18,5      |
+    | Peso normal        |  18,5 – 24,9 |
+    | Sobrepeso          |  25,0 – 29,9 |
+    | Obesidade grau I   |  30,0 – 34,9 |
+    | Obesidade grau II  |  35,0 – 39,9 |
+    | Obesidade grau III |  ≥ 40,0      |
 
   ### - QUESTÃO 18: (../src/bloco03/Questao18.java)
     Declare ano = 2024. Verifique se o ano é bissexto.
