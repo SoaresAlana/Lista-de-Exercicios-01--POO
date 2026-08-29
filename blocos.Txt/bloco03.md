@@ -11,7 +11,7 @@
     tabela da OMS e exiba o resultado.
     
       | Classificação      |  IMC         |
-      |---|---|
+      |--------------------|--------------|
       | Abaixo do peso     |  < 18,5      |
       | Peso normal        |  18,5 – 24,9 |
       | Sobrepeso          |  25,0 – 29,9 |
